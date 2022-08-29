@@ -1,12 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastián
+Hi, I'm a SW Engineer ( focused mostly in Backend / Architecture / Product Owner) 
 =================================================================================================================================
-
-Backend SW Engineer/ Architect / Product Owner
-----------------------------------------------
 
 * 🖥️  See my portfolio at [https://github.com/salt11ar](http://github.com/salt11ar)
 * 🚀  I'm currently working on [Java Microservices with Spring with a basic REACT frontend](http://https://github.com/salt11ar/java-public/tree/master/springboot-postgres-docker)
-* 🚀 See more on [Java public repo](https://github.com/salt11ar/java-public)
+* 🚀 See more on [Java public repo](https://github.com/salt11ar/java-public) : It includes Java and Spring solutions (REST and database among other tech), some basic REACT project, utils and code challenges. 
 * 🧠  I'm learning More Spring, Cloud technologies, microservices, docker and more
 
 ### Skills
