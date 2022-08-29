@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend SW Engineer/ Architect / Product Owner
 ----------------------------------------------
 
-* 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [https://github.com/salt11ar](http://github.com/salt11ar)
 * 🚀  I'm currently working on [Java Microservices with Spring with a basic REACT frontend](http://https://github.com/salt11ar/java-public/tree/master/springboot-postgres-docker)
 * 🧠  I'm learning More Spring, Cloud technologies, microservices, docker and more
