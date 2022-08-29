@@ -6,6 +6,7 @@ Backend SW Engineer/ Architect / Product Owner
 
 * 🖥️  See my portfolio at [https://github.com/salt11ar](http://github.com/salt11ar)
 * 🚀  I'm currently working on [Java Microservices with Spring with a basic REACT frontend](http://https://github.com/salt11ar/java-public/tree/master/springboot-postgres-docker)
+* 🚀 See more on [Java public repo](http://https://github.com/salt11ar/java-public/)
 * 🧠  I'm learning More Spring, Cloud technologies, microservices, docker and more
 
 ### Skills
