@@ -1,4 +1,4 @@
-Hi, I'm a SW Engineer ( focused mostly in Backend / Architecture / Product Owner) 
+Hi, I'm a SW Engineer ( focused mostly in Backend / Architecture / Product System Design) 
 =================================================================================================================================
 
 * 🖥️  See my portfolio at [https://github.com/salt11ar](http://github.com/salt11ar)
